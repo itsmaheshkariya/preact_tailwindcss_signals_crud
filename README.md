@@ -5,7 +5,7 @@ cd preact_tailwindcss_signals_crud
 yarn
 yarn dev
 ```
-![Slide 16_9 - 1flutternodejwt-10](https://user-images.githubusercontent.com/16520789/215355642-a34eefbd-ca13-46f5-bc14-b480f1113f55.png)
+![Slide 16_9 - 1flutternodejwt-11](https://user-images.githubusercontent.com/16520789/215356624-40b4bc37-0f60-4169-845b-4378bd4f7d73.png)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/itsmaheshkariya/preact_tailwindcss_signals_crud)
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/itsmaheshkariya/preact_tailwindcss_signals_crud)
