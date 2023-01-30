@@ -1,0 +1,5 @@
+Hy Makesh Im Kenneth owusu, I was following your kafka and nodejs tutorial. I have done everything but it doesnt seem to work. I have also search
+through your repos to find it but I cant find it.
+
+Can you please edit the link to the repo so that I can take a look at the codes.
+Thank you 
